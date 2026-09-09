@@ -1,0 +1,172 @@
+﻿codigo_newave;id_esperado_cobre;id_cobre_encontrado;nome_newave;nome_cobre;status_newave;resultado
+1;0;0;CAMARGOS;CAMARGOS;EX;Convertida corretamente
+2;1;1;ITUTINGA;ITUTINGA;EX;Convertida corretamente
+4;2;2;FUNIL-GRANDE;FUNIL-GRANDE;EX;Convertida corretamente
+6;3;3;FURNAS;FURNAS;EX;Convertida corretamente
+7;4;4;M. DE MORAES;M. DE MORAES;EX;Convertida corretamente
+8;5;5;ESTREITO;ESTREITO;EX;Convertida corretamente
+9;6;;JAGUARA;;EE;Ausente no COBRE
+10;7;6;IGARAPAVA;IGARAPAVA;EX;Convertida, mas com ID deslocado
+11;8;7;VOLTA GRANDE;VOLTA GRANDE;EX;Convertida, mas com ID deslocado
+12;9;8;P. COLOMBIA;P. COLOMBIA;EX;Convertida, mas com ID deslocado
+14;10;9;CACONDE;CACONDE;EX;Convertida, mas com ID deslocado
+15;11;10;E. DA CUNHA;E. DA CUNHA;EX;Convertida, mas com ID deslocado
+16;12;11;A.S.OLIVEIRA;A.S.OLIVEIRA;EX;Convertida, mas com ID deslocado
+17;13;12;MARIMBONDO;MARIMBONDO;EX;Convertida, mas com ID deslocado
+18;14;13;A. VERMELHA;A. VERMELHA;EX;Convertida, mas com ID deslocado
+20;15;14;BATALHA;BATALHA;EX;Convertida, mas com ID deslocado
+21;16;15;SERRA FACAO;SERRA FACAO;EX;Convertida, mas com ID deslocado
+24;17;16;EMBORCACAO;EMBORCACAO;EX;Convertida, mas com ID deslocado
+25;18;17;NOVA PONTE;NOVA PONTE;EX;Convertida, mas com ID deslocado
+26;19;18;MIRANDA;MIRANDA;EX;Convertida, mas com ID deslocado
+27;20;19;CAPIM BRANC1;CAPIM BRANC1;EX;Convertida, mas com ID deslocado
+28;21;20;CAPIM BRANC2;CAPIM BRANC2;EX;Convertida, mas com ID deslocado
+29;22;21;CORUMBA IV;CORUMBA IV;EX;Convertida, mas com ID deslocado
+30;23;22;CORUMBA I;CORUMBA I;EX;Convertida, mas com ID deslocado
+31;24;23;ITUMBIARA;ITUMBIARA;EX;Convertida, mas com ID deslocado
+32;25;24;CACH.DOURADA;CACH.DOURADA;EX;Convertida, mas com ID deslocado
+33;26;;SAO SIMAO;;EE;Ausente no COBRE
+34;27;25;I. SOLTEIRA;I. SOLTEIRA;EX;Convertida, mas com ID deslocado
+37;28;26;BARRA BONITA;BARRA BONITA;EX;Convertida, mas com ID deslocado
+38;29;27;A.S. LIMA;A.S. LIMA;EX;Convertida, mas com ID deslocado
+39;30;28;IBITINGA;IBITINGA;EX;Convertida, mas com ID deslocado
+40;31;29;PROMISSAO;PROMISSAO;EX;Convertida, mas com ID deslocado
+42;32;30;NAVANHANDAVA;NAVANHANDAVA;EX;Convertida, mas com ID deslocado
+43;33;31;TRES IRMAOS;TRES IRMAOS;EX;Convertida, mas com ID deslocado
+45;34;32;JUPIA;JUPIA;EX;Convertida, mas com ID deslocado
+46;35;33;P. PRIMAVERA;P. PRIMAVERA;EX;Convertida, mas com ID deslocado
+47;36;34;A.A. LAYDNER;A.A. LAYDNER;EX;Convertida, mas com ID deslocado
+48;37;35;PIRAJU;PIRAJU;EX;Convertida, mas com ID deslocado
+49;38;36;CHAVANTES;CHAVANTES;EX;Convertida, mas com ID deslocado
+50;39;37;L.N. GARCEZ;L.N. GARCEZ;EX;Convertida, mas com ID deslocado
+51;40;38;CANOAS II;CANOAS II;EX;Convertida, mas com ID deslocado
+52;41;39;CANOAS I;CANOAS I;EX;Convertida, mas com ID deslocado
+53;42;40;PARANAPANEMA;PARANAPANEMA;EX;Convertida, mas com ID deslocado
+57;43;41;MAUA;MAUA;EX;Convertida, mas com ID deslocado
+61;44;42;CAPIVARA;CAPIVARA;EX;Convertida, mas com ID deslocado
+62;45;43;TAQUARUCU;TAQUARUCU;EX;Convertida, mas com ID deslocado
+63;46;44;ROSANA;ROSANA;EX;Convertida, mas com ID deslocado
+66;47;45;ITAIPU;ITAIPU;EX;Convertida, mas com ID deslocado
+71;48;46;STA CLARA PR;STA CLARA PR;EX;Convertida, mas com ID deslocado
+72;49;47;FUNDAO;FUNDAO;EX;Convertida, mas com ID deslocado
+73;50;48;JORDAO;JORDAO;EX;Convertida, mas com ID deslocado
+74;51;;G.B. MUNHOZ;;EE;Ausente no COBRE
+76;52;;SEGREDO;;EE;Ausente no COBRE
+77;53;49;SLT.SANTIAGO;SLT.SANTIAGO;EX;Convertida, mas com ID deslocado
+78;54;50;SALTO OSORIO;SALTO OSORIO;EX;Convertida, mas com ID deslocado
+82;55;51;SALTO CAXIAS;SALTO CAXIAS;EX;Convertida, mas com ID deslocado
+83;56;52;BAIXO IGUACU;BAIXO IGUACU;EX;Convertida, mas com ID deslocado
+86;57;53;BARRA GRANDE;BARRA GRANDE;EX;Convertida, mas com ID deslocado
+87;58;54;CANASTRA;CANASTRA;EX;Convertida, mas com ID deslocado
+88;59;55;SAO ROQUE;SAO ROQUE;EX;Convertida, mas com ID deslocado
+89;60;56;GARIBALDI;GARIBALDI;EX;Convertida, mas com ID deslocado
+90;61;57;CAMPOS NOVOS;CAMPOS NOVOS;EX;Convertida, mas com ID deslocado
+91;62;58;MACHADINHO;MACHADINHO;EX;Convertida, mas com ID deslocado
+92;63;59;ITA;ITA;EX;Convertida, mas com ID deslocado
+93;64;60;PASSO FUNDO;PASSO FUNDO;EX;Convertida, mas com ID deslocado
+94;65;61;MONJOLINHO;MONJOLINHO;EX;Convertida, mas com ID deslocado
+95;66;62;QUEBRA QUEIX;QUEBRA QUEIX;EX;Convertida, mas com ID deslocado
+96;67;63;FOZ DO PRATA;FOZ DO PRATA;NE;Convertida, mas com ID deslocado
+97;68;64;CASTRO ALVES;CASTRO ALVES;EX;Convertida, mas com ID deslocado
+98;69;65;MONTE CLARO;MONTE CLARO;EX;Convertida, mas com ID deslocado
+99;70;66;14 DE JULHO;14 DE JULHO;EX;Convertida, mas com ID deslocado
+101;71;67;SAO JOSE;SAO JOSE;EX;Convertida, mas com ID deslocado
+102;72;68;PASSO S JOAO;PASSO S JOAO;EX;Convertida, mas com ID deslocado
+103;73;69;FOZ CHAPECO;FOZ CHAPECO;EX;Convertida, mas com ID deslocado
+110;74;70;ERNESTINA;ERNESTINA;EX;Convertida, mas com ID deslocado
+111;75;71;PASSO REAL;PASSO REAL;EX;Convertida, mas com ID deslocado
+112;76;72;JACUI;JACUI;EX;Convertida, mas com ID deslocado
+113;77;73;ITAUBA;ITAUBA;EX;Convertida, mas com ID deslocado
+114;78;74;D. FRANCISCA;D. FRANCISCA;EX;Convertida, mas com ID deslocado
+115;79;75;G.P. SOUZA;G.P. SOUZA;EX;Convertida, mas com ID deslocado
+117;80;76;GUARAPIRANGA;GUARAPIRANGA;EX;Convertida, mas com ID deslocado
+118;81;77;BILLINGS;BILLINGS;EX;Convertida, mas com ID deslocado
+119;82;78;HENRY BORDEN;HENRY BORDEN;EX;Convertida, mas com ID deslocado
+120;83;79;JAGUARI;JAGUARI;EX;Convertida, mas com ID deslocado
+121;84;80;PARAIBUNA;PARAIBUNA;EX;Convertida, mas com ID deslocado
+122;85;81;SANTA BRANCA;SANTA BRANCA;EX;Convertida, mas com ID deslocado
+123;86;82;FUNIL;FUNIL;EX;Convertida, mas com ID deslocado
+124;87;83;LAJES;LAJES;EX;Convertida, mas com ID deslocado
+126;88;84;PICADA;PICADA;EX;Convertida, mas com ID deslocado
+127;89;85;SOBRAGI;SOBRAGI;EX;Convertida, mas com ID deslocado
+129;90;86;SIMPLICIO;SIMPLICIO;EX;Convertida, mas com ID deslocado
+130;91;87;ILHA POMBOS;ILHA POMBOS;EX;Convertida, mas com ID deslocado
+131;92;88;NILO PECANHA;NILO PECANHA;EX;Convertida, mas com ID deslocado
+132;93;89;FONTES;FONTES;EX;Convertida, mas com ID deslocado
+133;94;90;P. PASSOS;P. PASSOS;EX;Convertida, mas com ID deslocado
+134;95;91;SALTO GRANDE;SALTO GRANDE;EX;Convertida, mas com ID deslocado
+135;96;92;P. ESTRELA;P. ESTRELA;EX;Convertida, mas com ID deslocado
+139;97;93;CANDONGA;CANDONGA;EX;Convertida, mas com ID deslocado
+141;98;94;BAGUARI;BAGUARI;EX;Convertida, mas com ID deslocado
+143;99;95;AIMORES;AIMORES;EX;Convertida, mas com ID deslocado
+144;100;96;MASCARENHAS;MASCARENHAS;EX;Convertida, mas com ID deslocado
+145;101;97;SUICA;SUICA;EX;Convertida, mas com ID deslocado
+148;102;98;IRAPE;IRAPE;EX;Convertida, mas com ID deslocado
+153;103;99;SAO DOMINGOS;SAO DOMINGOS;EX;Convertida, mas com ID deslocado
+154;104;100;ITAPEBI;ITAPEBI;EX;Convertida, mas com ID deslocado
+155;105;101;RETIRO BAIXO;RETIRO BAIXO;EX;Convertida, mas com ID deslocado
+156;106;102;TRES MARIAS;TRES MARIAS;EX;Convertida, mas com ID deslocado
+162;107;103;QUEIMADO;QUEIMADO;EX;Convertida, mas com ID deslocado
+169;108;104;SOBRADINHO;SOBRADINHO;EX;Convertida, mas com ID deslocado
+172;109;105;ITAPARICA;ITAPARICA;EX;Convertida, mas com ID deslocado
+176;110;106;COMP PAF-MOX;COMP PAF-MOX;EX;Convertida, mas com ID deslocado
+178;111;107;XINGO;XINGO;EX;Convertida, mas com ID deslocado
+185;112;108;BARRA BRAUNA;BARRA BRAUNA;EX;Convertida, mas com ID deslocado
+189;113;109;P. CAVALO;P. CAVALO;EX;Convertida, mas com ID deslocado
+190;114;110;B. ESPERANCA;B. ESPERANCA;EX;Convertida, mas com ID deslocado
+192;115;111;GUILMAN-AMOR;GUILMAN-AMOR;EX;Convertida, mas com ID deslocado
+193;116;112;SA CARVALHO;SA CARVALHO;EX;Convertida, mas com ID deslocado
+195;117;113;JAURU;JAURU;EX;Convertida, mas com ID deslocado
+196;118;114;GUAPORE;GUAPORE;EX;Convertida, mas com ID deslocado
+203;119;115;CORUMBA III;CORUMBA III;EX;Convertida, mas com ID deslocado
+204;120;116;CACH.CALDEIR;CACH.CALDEIR;EX;Convertida, mas com ID deslocado
+215;121;117;SALTO PILAO;SALTO PILAO;EX;Convertida, mas com ID deslocado
+217;122;118;ROSAL;ROSAL;EX;Convertida, mas com ID deslocado
+225;123;119;SLT APIACAS;SLT APIACAS;EX;Convertida, mas com ID deslocado
+227;124;120;SINOP;SINOP;EX;Convertida, mas com ID deslocado
+228;125;121;COLIDER;COLIDER;EX;Convertida, mas com ID deslocado
+229;126;122;TELES PIRES;TELES PIRES;EX;Convertida, mas com ID deslocado
+230;127;123;SAO MANOEL;SAO MANOEL;EX;Convertida, mas com ID deslocado
+241;128;124;SLT VERDINHO;SLT VERDINHO;EX;Convertida, mas com ID deslocado
+249;129;125;OURINHOS;OURINHOS;EX;Convertida, mas com ID deslocado
+251;130;126;SERRA MESA;SERRA MESA;EX;Convertida, mas com ID deslocado
+252;131;127;CANA BRAVA;CANA BRAVA;EX;Convertida, mas com ID deslocado
+253;132;128;SAO SALVADOR;SAO SALVADOR;EX;Convertida, mas com ID deslocado
+257;133;129;PEIXE ANGIC;PEIXE ANGIC;EX;Convertida, mas com ID deslocado
+260;134;130;ESTRELA;ESTRELA;NE;Convertida, mas com ID deslocado
+261;135;131;LAJEADO;LAJEADO;EX;Convertida, mas com ID deslocado
+262;136;132;SALTO;SALTO;EX;Convertida, mas com ID deslocado
+267;137;133;ESTREITO TOC;ESTREITO TOC;EX;Convertida, mas com ID deslocado
+272;138;134;CURUA-UNA;CURUA-UNA;EX;Convertida, mas com ID deslocado
+275;139;135;TUCURUI;TUCURUI;EX;Convertida, mas com ID deslocado
+276;140;136;RONDON II;RONDON II;EX;Convertida, mas com ID deslocado
+277;141;137;BALBINA;BALBINA;EX;Convertida, mas com ID deslocado
+278;142;138;MANSO;MANSO;EX;Convertida, mas com ID deslocado
+279;143;139;SAMUEL;SAMUEL;EX;Convertida, mas com ID deslocado
+280;144;140;COARACY NUNE;COARACY NUNE;EX;Convertida, mas com ID deslocado
+281;145;141;PONTE PEDRA;PONTE PEDRA;EX;Convertida, mas com ID deslocado
+283;146;142;STA CLARA MG;STA CLARA MG;EX;Convertida, mas com ID deslocado
+284;147;143;FERREIRA GOM;FERREIRA GOM;EX;Convertida, mas com ID deslocado
+285;148;144;JIRAU;JIRAU;EX;Convertida, mas com ID deslocado
+286;149;145;STO ANT JARI;STO ANT JARI;EX;Convertida, mas com ID deslocado
+287;150;146;STO ANTONIO;STO ANTONIO;EX;Convertida, mas com ID deslocado
+288;151;147;BELO MONTE;BELO MONTE;EX;Convertida, mas com ID deslocado
+290;152;148;ESPORA;ESPORA;EX;Convertida, mas com ID deslocado
+291;;;FICT.SERRA M;;EX;Exclusão justificada: usina fictícia
+292;;;FICT.CANA BR;;EX;Exclusão justificada: usina fictícia
+294;;;FICT.QUEIMAD;;EX;Exclusão justificada: usina fictícia
+295;;;FICT.TRES MA;;EX;Exclusão justificada: usina fictícia
+298;;;FICT.IRAPE;;EX;Exclusão justificada: usina fictícia
+302;;;FICT.LAJEADO;;EX;Exclusão justificada: usina fictícia
+303;;;FICT.PEIXE A;;EX;Exclusão justificada: usina fictícia
+304;153;149;ITIQUIRA I;ITIQUIRA I;EX;Convertida, mas com ID deslocado
+305;154;150;ITIQUIRA II;ITIQUIRA II;EX;Convertida, mas com ID deslocado
+306;;;FICT.SAO SAL;;EX;Exclusão justificada: usina fictícia
+308;;;FICT.RETIRO;;EX;Exclusão justificada: usina fictícia
+309;155;151;JURUENA;JURUENA;EX;Convertida, mas com ID deslocado
+310;156;152;DARDANELOS;DARDANELOS;EX;Convertida, mas com ID deslocado
+311;157;153;CACU;CACU;EX;Convertida, mas com ID deslocado
+312;158;154;B. COQUEIROS;B. COQUEIROS;EX;Convertida, mas com ID deslocado
+314;159;155;PIMENTAL;PIMENTAL;EX;Convertida, mas com ID deslocado
+315;160;156;FOZ R. CLARO;FOZ R. CLARO;EX;Convertida, mas com ID deslocado
+319;;;FICT.MAUA;;EX;Exclusão justificada: usina fictícia
